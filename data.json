@@ -1,41 +1,62 @@
 {
-    "arabica": [
+    "Minuman": [
         {
+            "nama": "Cappuccino",
             "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+            "harga": "Rp 35.000",
+            "size": "250 Ml",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-cappuccino-250-ml"
         },
         {
+            "nama": "Espresso",
             "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+            "harga": "Rp 25.000",
+            "size": "150 Ml",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-espresso-150-ml"
         },
         {
+            "nama": "kopi_susu",
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "harga": "Rp 27.000",
+            "size": "150 Ml",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-kopi_susu-150-ml"
+        },
+        {
+            "nama": "Latte",
             "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+            "harga": "Rp 30.000",
+            "size": "150 Ml",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-latte-150-ml"
         }
     ],
-    "robusta": [
+    "Makanan": [
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "nama": "Nasi Rendang",
+            "foto": "https://order.pointcoffee.id/p007/wp-content/uploads/sites/9/2023/02/NASI-RENDANG-CABE-IJO.jpg",
+            "harga": "Rp 30.000",
+            "size": "1 Porsi",
+            "link": "https://www.tokopedia.com/kopikuy/rendangenak"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "nama": "Nasi Ayam Katsu",
+            "foto": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/cb980502-4aad-40f1-9c75-cc72036184f9_Go-Biz_20221120_145136.jpeg",
+            "harga": "Rp 22.000",
+            "size": "1 Porsi",
+            "link": "https://www.tokopedia.com/kopikuy/Ayam Katsu"
+        },
+        {
+            "nama": "Nasi Ayam Goreng",
+            "foto": "https://idalamat.com/images/addresses/7579460-ayam-goreng-lalapan-mas-gun-mataram-nusa-tenggara-barat.jpg",
+            "harga": "Rp 23.000",
+            "size": "1 Porsi",
+            "link": "https://www.tokopedia.com/kopikuy/Ayam Goreng"
+        },
+        {
+            "nama": "Spagetti",
+            "foto": "https://www.mindmegette.hu/images/195/O/DSC_4904s.jpg",
+            "harga": "Rp 23.000",
+            "size": "1 Porsi",
+            "link": "https://www.tokopedia.com/kopikuy/Spagetti"
         }
     ],
     "Minuman": [
@@ -67,5 +88,52 @@
             "size": "150 Ml",
             "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-latte-150-ml"
         }
+    ],
+    "Snack": [
+        {
+            "nama": "Tahu Crispy",
+            "foto": "https://www.dapurkobe.co.id/wp-content/uploads/tahu-super-crispy.jpg",
+            "harga": "Rp 35.000",
+            "size": "250 Gram",
+            "link": "https://www.tokopedia.com/kopikuy/Tahu Crispy"
+        },
+        {
+            "nama": "Kentang Goreng",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2018/07/06/c77f4f72-68e2-4d59-8b40-79bbde71863c.jpeg?w=600&q=90",
+            "harga": "Rp 15.000",
+            "size": "250 Gram",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-kentang-goreng-250-ml"
+        },
+        {
+            "nama": "Sosis",
+            "foto": "https://asset.kompas.com/crops/WwRLHjvw9vUX4t7UYbGWU0Dbx84=/81x66:881x599/750x500/data/photo/2023/09/01/64f15eb428321.jpeg",
+            "harga": "Rp 15.000",
+            "size": "250 Gram",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-sosis-250-ml"
+        },
+        {
+            "nama": "Baso",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6xxWGBhunrTQRzR5EOhK3rwkJ-q8AzjT2w&s",
+            "harga": "Rp 15.000",
+            "size": "250 Gram",
+            "link": "https://www.tokopedia.com/kopikuy/kopi-kuy-sosis-250-ml"
+        }
+    ],
+    "NonKopi": [
+        {
+            "nama": "Lemon Tea",
+            "foto": "https://img.kurio.network/D4X4yHPlLs-sZT70fkmRRX2f-ms=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/07/04/9222c316-c84d-41b8-b523-25587f2de0fc.jpe",
+            "harga": "Rp 35.000",
+            "size": "250 Gram",
+            "link": "https://www.tokopedia.com/kopikuy/Lemon Tea"
+        },
+        {
+            "nama": "Green Tea",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgI-gTZektNPw3iGOzCLpnwPxNz7NZK77LQ&s",
+            "harga": "Rp 25.000",
+            "size": "150 Ml",
+            "link": "https://www.tokopedia.com/kopikuy/Greentea"
+        }
     ]
+    
 }
